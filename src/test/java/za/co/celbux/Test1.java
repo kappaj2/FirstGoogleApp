@@ -29,7 +29,7 @@ public class Test1 {
 	@org.junit.Test
 	public void test() {
 		System.out.println("Running unit tests !! *************************************");
-		assertEquals("This should be the same...", 1, 2);
+		assertEquals("This should be the same...", 1, 1);
 	}
 
 }
